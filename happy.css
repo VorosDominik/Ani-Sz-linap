@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black; /* Sets the background to completely dark */
+    display: flex;
+    justify-content: center; /* Centers content horizontally */
+    align-items: center; /* Centers content vertically */
+    height: 100vh; /* Full viewport height */
+}
+
+img.egy {
+    border: 5px solid gold; /* Gold border around the image */
+    width: fit-content;
+    height: inherit;
+}
